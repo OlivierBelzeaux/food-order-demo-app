@@ -1,3 +1,4 @@
+// Style
 import classes from './CartItem.module.css';
 
 const CartItem = (props) => {
